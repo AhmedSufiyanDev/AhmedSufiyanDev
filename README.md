@@ -45,7 +45,7 @@ I enjoy solving complex problems, optimizing system performance, and writing **c
 
 ## 📫 Get in Touch
 - 🔗 LinkedIn: [Ahmed Sufiyan](https://www.linkedin.com/)  
-- 📧 Email: ahmed@example.com  
+- 📧 Email: ahmedsufiyandev@gmail.com  
 
 ---
 
