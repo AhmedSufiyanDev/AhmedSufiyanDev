@@ -49,6 +49,14 @@ I enjoy solving complex problems, optimizing system performance, and writing **c
 
 ---
 
+## 📊 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedSufiyan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSufiyan&layout=compact&theme=radical)
+
+---
+
 ## 📫 Get in Touch
 - 🔗 LinkedIn: [Ahmed Sufiyan](https://www.linkedin.com/)  
 - 📧 Email: ahmed@example.com  
@@ -56,4 +64,8 @@ I enjoy solving complex problems, optimizing system performance, and writing **c
 ---
 
 ## ⚡ Fun Fact
-I genuinely enjoy exploring new technologies and building cool side projects, sometimes just to understand **how things work under the hood**.
+I genuinely enjoy exploring new technologies and building **side projects** to understand **how things work under the hood**.
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhmedSufiyan)
