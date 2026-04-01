@@ -1,18 +1,20 @@
 # Hi there, I'm Ahmed Sufiyan! 👋
 
-### 🚀 About Me
-I'm a **Software Engineer** and **Full Stack Developer** with 5+ years of experience building **scalable, secure, and high-performance web applications**.  
+## 🚀 About Me
 
-I specialize in **MERN and Next.js/React stack development**, and I also work extensively with:
+I'm  a **Software Engineer** and **Full Stack Developer** with 5+ years of experience building **scalable, secure, and high-performance web applications**.
 
-- Node.js (Express, NestJS)  
-- REST APIs with JWT & Role-Based Access Control  
-- Microservices Architecture  
-- Cloud-native deployments on AWS  
-- Docker & CI/CD pipelines  
+I specialize in **Next.js, React.js, Node.js, and NestJS**, focusing on creating **production-ready applications** with clean architecture and optimized performance.
 
-I enjoy solving complex problems, optimizing system performance, and writing **clean, maintainable code**.  
+My expertise includes:
+- Designing and building **RESTful APIs** with secure authentication (JWT, RBAC)  
+- Developing **microservices-based architectures**  
+- Deploying **cloud-native applications on AWS**  
+- Implementing **Dockerized environments and CI/CD pipelines**  
 
+I’m passionate about solving complex problems, improving system performance, and delivering **robust, maintainable, and scalable solutions**.
+
+🚀 Always building, always learning, and always aiming for excellence.
 ---
 
 ## 🛠️ Tech Stack
